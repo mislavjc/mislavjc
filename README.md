@@ -1,4 +1,4 @@
-🔭 Frontend Engineer @ ACCOINTING.com
+🔭 Frontend Engineer @ Glassnode
 
 ## Tech stack
 
