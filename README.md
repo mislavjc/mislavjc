@@ -1,4 +1,4 @@
-🔭 Frontend Engineer @ Glassnode
+🔭 Frontend Engineer
 
 ## Tech stack
 
